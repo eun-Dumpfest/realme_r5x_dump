@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Realme
+ro.product.vendor_dlkm.device=r5x
+ro.product.vendor_dlkm.manufacturer=Realme
+ro.product.vendor_dlkm.model=Realme 5 Series
+ro.product.vendor_dlkm.name=aosp_r5x
+ro.vendor_dlkm.build.date=Thu May  5 13:07:38 CEST 2022
+ro.vendor_dlkm.build.date.utc=1651748858
+ro.vendor_dlkm.build.fingerprint=Realme/r5x/r5x:12/SP2A.220505.002/1108:userdebug/test-keys
+ro.vendor_dlkm.build.id=SP2A.220505.002
+ro.vendor_dlkm.build.tags=test-keys
+ro.vendor_dlkm.build.type=userdebug
+ro.vendor_dlkm.build.version.incremental=1651748924
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=32
+# end of file
